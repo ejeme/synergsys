@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+}
+
+#sgs-logo {
+  width: 150px;
+  padding-top:-30px;
+  margin-top:-10px;
+}
+
+a{
+  margin-bottom: 20px;
+}
+
+.thumbnail img{
+max-height: 150px;
+}
+
+.thumbnail .caption{
+color:black;
+}
+
+.price{
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.signup{
+  color: rgb(189, 181, 181);
+}
+
+label{
+  color: rgb(189, 181, 181); 
+}
+h1 {
+  color: rgb(189, 181, 181);   
+}
+
+h4 {
+  color: rgb(189, 181, 181);   
+}
